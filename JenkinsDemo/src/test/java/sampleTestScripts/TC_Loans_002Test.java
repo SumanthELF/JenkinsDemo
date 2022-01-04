@@ -9,5 +9,6 @@ public class TC_Loans_002Test {
 	public void print() {
 		Reporter.log("Hi welcome",true);
 		System.out.println(System.getProperty("browserName"));
+		System.out.println(System.getProperty("username"));
 	}
 }
